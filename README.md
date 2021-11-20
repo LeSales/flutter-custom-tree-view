@@ -1,6 +1,6 @@
-# tree_node
+# Custom tree
 
-A new Flutter project.
+Implementação de um nó de árvore para auxiliar na exibição de informações
 
 ## Getting Started
 
